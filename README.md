@@ -16,4 +16,4 @@ _DATE CREATED_ = _10/5/2020_
 #### using technologies :
 _NUMPAY_ , _PYTHON_ ,_PANDAS_
  
-*CREDIT* = THANKS TO UDACITY TEAM FOR THIS PROJECT
+*CREDIT* = <thanks to udacity team for this great project.>
